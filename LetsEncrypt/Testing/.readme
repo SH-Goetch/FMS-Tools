@@ -1,0 +1,1 @@
+The plist in this directory is for testing lets encrypt renewals and will help debug renewal hooks.  Place this file in /Library/LaunchDaemons and restart the system.  The start interval can be changed from 120 seconds if needed.  
