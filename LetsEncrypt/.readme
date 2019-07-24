@@ -3,3 +3,6 @@ Tools in this folder:
 1.) A plist that should be installed into /Library/LaunchDaemons/ that will call certbot.
 2.) A script that should be instaled into /etc/letsencrypt/renewal-hooks/post/
 3.) A script to run to get the first certificate and install it
+
+
+The com.sh.letsencrypt.plist is set to run on the first day of every week
